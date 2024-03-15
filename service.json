@@ -1,0 +1,284 @@
+[
+  {
+    "serviceName": "Regular Cleaning",
+    "servicePrice": 50,
+    "serviceImg": "regular_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Regular Cleaning service provides thorough cleaning for your home on a regular basis.",
+    "features": [
+      { "type": "Dusting", "frequency": "Weekly" },
+      { "type": "Vacuuming", "frequency": "Weekly" },
+      "Mopping floors",
+      "Cleaning bathrooms and kitchens",
+      "Changing bed linens (if requested)"
+    ]
+  },
+  {
+    "serviceName": "Deep Cleaning",
+    "servicePrice": 100,
+    "serviceImg": "deep_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Deep Cleaning service is perfect for giving your home a comprehensive cleaning from top to bottom.",
+    "features": [
+      { "type": "Detailed dusting", "frequency": "Bi-weekly" },
+      { "type": "Scrubbing floors", "frequency": "Monthly" },
+      "Cleaning inside appliances (e.g., oven, refrigerator)",
+      "Washing windows and window sills"
+    ]
+  },
+  {
+    "serviceName": "Office Cleaning",
+    "servicePrice": 80,
+    "serviceImg": "office_cleaning.jpg",
+    "category": "Office Cleaning",
+    "description": "Our Office Cleaning service keeps your workplace clean and organized, promoting a productive environment for your employees.",
+    "features": [
+      { "type": "Dusting and cleaning desks", "frequency": "Daily" },
+      { "type": "Vacuuming and mopping floors", "frequency": "Daily" },
+      "Cleaning windows and glass surfaces",
+      "Sanitizing common areas",
+      "Emptying trash bins"
+    ]
+  },
+  {
+    "serviceName": "Carpet Cleaning",
+    "servicePrice": 70,
+    "serviceImg": "carpet_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Carpet Cleaning service rejuvenates your carpets, removing dirt, stains, and allergens to leave them fresh and clean.",
+    "features": [
+      { "type": "Pre-inspection and spot treatment", "frequency": "As needed" },
+      {
+        "type": "Hot water extraction cleaning method",
+        "frequency": "Bi-annual"
+      },
+      "Stain removal",
+      "Deodorizing and sanitizing",
+      "Quick drying process"
+    ]
+  },
+  {
+    "serviceName": "Window Cleaning",
+    "servicePrice": 60,
+    "serviceImg": "window_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Window Cleaning service enhances the appearance of your home or office by leaving your windows sparkling clean and streak-free.",
+    "features": [
+      {
+        "type": "Cleaning interior and exterior windows",
+        "frequency": "Quarterly"
+      },
+      { "type": "Cleaning window screens", "frequency": "Bi-annual" },
+      "Cleaning window sills and frames",
+      "Ensuring streak-free finish"
+    ]
+  },
+  {
+    "serviceName": "Post-Construction Cleaning",
+    "servicePrice": 150,
+    "serviceImg": "post_construction_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Post-Construction Cleaning service eliminates dust, debris, and construction residue, leaving your newly renovated space clean and ready to use.",
+    "features": [
+      { "type": "Cleaning and dusting all surfaces", "frequency": "One-time" },
+      "Vacuuming and mopping floors",
+      "Cleaning walls, ceilings, and light fixtures",
+      "Removing stickers and labels",
+      "Final walkthrough inspection"
+    ]
+  },
+  {
+    "serviceName": "Green Cleaning",
+    "servicePrice": 65,
+    "serviceImg": "green_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Green Cleaning service uses eco-friendly products and practices to ensure a clean and healthy environment while minimizing environmental impact.",
+    "features": [
+      {
+        "type": "Environmentally safe cleaning products",
+        "frequency": "Every cleaning"
+      },
+      {
+        "type": "Reduced water and energy consumption",
+        "frequency": "Every cleaning"
+      },
+      "Biodegradable cleaning materials",
+      "Safe for pets and children",
+      "Promotes indoor air quality"
+    ]
+  },
+  {
+    "serviceName": "Upholstery Cleaning",
+    "servicePrice": 75,
+    "serviceImg": "upholstery_cleaning.jpg",
+    "category": "Home Cleaning",
+    "description": "Our Upholstery Cleaning service revitalizes your furniture, removing dirt, stains, and allergens to restore its appearance and comfort.",
+    "features": [
+      { "type": "Cleaning fabric upholstery", "frequency": "Bi-annual" },
+      { "type": "Spot treatment for stains", "frequency": "As needed" },
+      "Deodorizing and sanitizing",
+      "Steam cleaning method",
+      "Protective fabric treatment (optional)"
+    ]
+  },
+  {
+    "serviceName": "Emergency Cleaning",
+    "servicePrice": 90,
+    "serviceImg": "emergency_cleaning.jpg",
+    "category": "Specialty Cleaning",
+    "description": "Our Emergency Cleaning service provides rapid response and thorough cleaning in urgent situations such as spills, accidents, or unexpected guests.",
+    "features": [
+      { "type": "Immediate dispatch of cleaning team", "frequency": "24/7" },
+      {
+        "type": "Quick cleanup of spills and messes",
+        "frequency": "As needed"
+      },
+      "Sanitization and decontamination",
+      "Flexible scheduling",
+      "24/7 availability"
+    ]
+  },
+  {
+    "serviceName": "Outdoor Cleaning",
+    "servicePrice": 55,
+    "serviceImg": "outdoor_cleaning.jpg",
+    "category": "Exterior Cleaning",
+    "description": "Our Outdoor Cleaning service focuses on tidying up and enhancing the exterior of your property, including pathways, decks, and outdoor furniture.",
+    "features": [
+      { "type": "Power washing", "frequency": "Bi-annual" },
+      { "type": "Gutter cleaning", "frequency": "Seasonally" },
+      "Patio and deck sweeping",
+      "Cleaning outdoor furniture",
+      "Window washing"
+    ]
+  },
+  {
+    "serviceName": "Commercial Kitchen Cleaning",
+    "servicePrice": 120,
+    "serviceImg": "commercial_kitchen_cleaning.jpg",
+    "category": "Commercial Cleaning",
+    "description": "Our Commercial Kitchen Cleaning service ensures compliance with hygiene standards and maintains a clean environment in your restaurant or commercial kitchen.",
+    "features": [
+      { "type": "Degreasing of kitchen surfaces", "frequency": "Weekly" },
+      { "type": "Cleaning kitchen equipment", "frequency": "Daily" },
+      "Sanitizing food preparation areas",
+      "Deep cleaning of ovens and grills",
+      "Floor mopping and disinfection"
+    ]
+  },
+  {
+    "serviceName": "Event Venue Cleaning",
+    "servicePrice": 150,
+    "serviceImg": "event_venue_cleaning.jpg",
+    "category": "Special Events Cleaning",
+    "description": "Our Event Venue Cleaning service ensures that your venue is immaculate before, during, and after events, providing a welcoming environment for guests.",
+    "features": [
+      { "type": "Pre-event setup cleaning", "frequency": "Before each event" },
+      { "type": "During-event cleanup", "frequency": "During each event" },
+      "Post-event thorough cleaning",
+      "Restroom sanitation",
+      "Trash removal"
+    ]
+  },
+  {
+    "serviceName": "Pet Hair Removal",
+    "servicePrice": 45,
+    "serviceImg": "pet_hair_removal.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our Pet Hair Removal service tackles stubborn pet hair, dander, and odors, leaving your home clean and fresh for both pets and humans.",
+    "features": [
+      { "type": "Vacuuming with pet-specific tools", "frequency": "Weekly" },
+      { "type": "Lint rolling furniture", "frequency": "As needed" },
+      "Deodorizing pet bedding",
+      "Specialized upholstery cleaning",
+      "Air purifier installation (optional)"
+    ]
+  },
+  {
+    "serviceName": "Mattress Cleaning",
+    "servicePrice": 70,
+    "serviceImg": "mattress_cleaning.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our Mattress Cleaning service removes dust mites, allergens, and stains from your mattress, ensuring a clean and hygienic sleeping environment.",
+    "features": [
+      { "type": "Mattress vacuuming", "frequency": "Bi-annual" },
+      { "type": "Steam cleaning", "frequency": "As needed" },
+      "Stain treatment",
+      "Deodorizing",
+      "Mattress sanitization"
+    ]
+  },
+  {
+    "serviceName": "Ceiling and Fan Cleaning",
+    "servicePrice": 60,
+    "serviceImg": "ceiling_fan_cleaning.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our Ceiling and Fan Cleaning service removes dust and grime from ceilings, fans, and light fixtures, improving indoor air quality and aesthetics.",
+    "features": [
+      { "type": "Ceiling dusting", "frequency": "Quarterly" },
+      { "type": "Fan blade wiping", "frequency": "Semi-annually" },
+      "Light fixture cleaning",
+      "Cobweb removal",
+      "Air vent cleaning"
+    ]
+  },
+  {
+    "serviceName": "Boat Cleaning",
+    "servicePrice": 200,
+    "serviceImg": "boat_cleaning.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our Boat Cleaning service ensures that your boat remains pristine, both inside and out, maintaining its appearance and value.",
+    "features": [
+      { "type": "Exterior washing and waxing", "frequency": "Bi-monthly" },
+      { "type": "Interior deep cleaning", "frequency": "As needed" },
+      "Canvas cleaning and treatment",
+      "Mold and mildew removal",
+      "Engine compartment detailing"
+    ]
+  },
+  {
+    "serviceName": "Pool Cleaning",
+    "servicePrice": 90,
+    "serviceImg": "pool_cleaning.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our Pool Cleaning service ensures that your pool remains clean, safe, and inviting, providing enjoyment for you and your guests.",
+    "features": [
+      { "type": "Skimming and surface cleaning", "frequency": "Weekly" },
+      { "type": "Brushing walls and tiles", "frequency": "Weekly" },
+      "Vacuuming pool floor",
+      "Emptying skimmer baskets",
+      "Water chemical balancing"
+    ]
+  },
+  {
+    "serviceName": "Industrial Equipment Cleaning",
+    "servicePrice": 180,
+    "serviceImg": "industrial_equipment_cleaning.jpg",
+    "category": "Commercial Cleaning",
+    "description": "Our Industrial Equipment Cleaning service maintains the cleanliness and functionality of industrial machinery and equipment, ensuring optimal performance.",
+    "features": [
+      { "type": "Heavy-duty degreasing", "frequency": "Monthly" },
+      { "type": "Pressure washing", "frequency": "Quarterly" },
+      "Machine part cleaning and lubrication",
+      "Conveyor belt cleaning",
+      "Equipment sanitization"
+    ]
+  },
+  {
+    "serviceName": "RV Cleaning",
+    "servicePrice": 100,
+    "serviceImg": "rv_cleaning.jpg",
+    "category": "Specialized Cleaning",
+    "description": "Our RV Cleaning service keeps your recreational vehicle clean, comfortable, and ready for your next adventure on the road.",
+    "features": [
+      {
+        "type": "Exterior washing and waxing",
+        "frequency": "Before each trip"
+      },
+      { "type": "Interior deep cleaning", "frequency": "After each trip" },
+      "RV roof cleaning and sealing",
+      "Awning cleaning",
+      "Window cleaning"
+    ]
+  }
+]
